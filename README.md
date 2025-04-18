@@ -1,6 +1,15 @@
 # Waveshare ESP32-S3 Touch LCD 1.69 Project
 
-This repository contains code examples and potentially modified libraries for interacting with the Waveshare ESP32-S3 Touch LCD 1.69 development board.
+This repository contains updated code examples with the Waveshare ESP32-S3 Touch LCD 1.69 to implement a WiFi Spectrum Analyzer.
+
+![preview](img/wavesharelcd.jpg)
+
+### Changes
+
+* *Adjusted the text sizes and titles*
+* *Adjusted found access point line to correctly space & show the number of access points with the curve screen*
+* *Adjusted colors : title, upper banner, and graph colors*
+
 
 ## Hardware Overview
 
@@ -35,12 +44,4 @@ The Waveshare ESP32-S3 Touch LCD 1.69 is a microcontroller development board bas
 * **Official Waveshare Wiki:** For detailed documentation, schematics, and original example code:
     [Waveshare ESP32-S3 Touch LCD 1.69 Wiki](https://www.waveshare.com/wiki/ESP32-S3-Touch-LCD-1.69)
 
-## Changes
-
-(Describe your modifications, tweaks, or additions to the original Waveshare examples or libraries here.)
-
-* *Example: Adjusted TFT_eSPI user setup for pin mapping.*
-* *Example: Modified touch interrupt handling.*
-* *Example: Added custom graphics
-*  functions.*
 
