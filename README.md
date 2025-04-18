@@ -2,13 +2,14 @@
 
 This repository contains updated code examples with the Waveshare ESP32-S3 Touch LCD 1.69 to implement a WiFi Spectrum Analyzer.
 
-![preview](img/wavesharelcd.jpg)
-
 ### Changes
 
 * *Adjusted the text sizes and titles*
 * *Adjusted found access point line to correctly space & show the number of access points with the curve screen*
 * *Adjusted colors : title, upper banner, and graph colors*
+
+
+![preview](img/wavetouch.jpg)
 
 
 ## Hardware Overview
