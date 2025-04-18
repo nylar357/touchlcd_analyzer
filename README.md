@@ -5,7 +5,7 @@ This repository contains updated code examples with the Waveshare ESP32-S3 Touch
 ### Changes
 
 * *Adjusted the text sizes and titles*
-* *Adjusted found access point line to correctly space & show the number of access points with the curve screen*
+* *Adjusted found access point line to correctly space & show the # of APs with curved corners*
 * *Adjusted colors : title, upper banner, and graph colors*
 
 
